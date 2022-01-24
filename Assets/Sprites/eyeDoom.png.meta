@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: e25bcc534466a9340908a7669ce56afa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8217863870786317330
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_0
+  - first:
+      213: -9197944922373428545
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_1
+  - first:
+      213: -3932980467030625273
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_2
+  - first:
+      213: 5126287656016940948
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_3
+  - first:
+      213: -1996546790032247834
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_4
+  - first:
+      213: -7044973284898213584
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_5
+  - first:
+      213: 1428521482260617606
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_6
+  - first:
+      213: -2679150130446270283
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_7
+  - first:
+      213: -521582519909056781
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_8
+  - first:
+      213: -2661064381184320024
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_9
+  - first:
+      213: -1619538099190386688
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_10
+  - first:
+      213: 5182827942882525642
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_11
+  - first:
+      213: 8659066002958855095
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_12
+  - first:
+      213: -8016812721528402101
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_13
+  - first:
+      213: -5783586873201953888
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_14
+  - first:
+      213: -9107235120242510982
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_15
+  - first:
+      213: -5387588691567108880
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_16
+  - first:
+      213: 6037272578801085511
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_17
+  - first:
+      213: 8808496423666439153
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_18
+  - first:
+      213: 1624953484218686726
+    second: kisspng-doom-64-doom-ii-doom-3-sprite-beautiful-doom-is-back-news-mod-db-5b6341834ade36.4109975015332314913067_19
+  - first:
+      213: -6857689399786622215
+    second: eyeDoom_0
+  - first:
+      213: 2863757513489617053
+    second: eyeDoom_1
+  - first:
+      213: 103284407870088702
+    second: eyeDoom_2
+  - first:
+      213: -4494411542048224943
+    second: eyeDoom_3
+  - first:
+      213: 8601098875813296913
+    second: eyeDoom_4
+  - first:
+      213: -2207907717517330124
+    second: eyeDoom_5
+  - first:
+      213: 4799637430533040514
+    second: eyeDoom_6
+  - first:
+      213: 3190688195794579683
+    second: eyeDoom_7
+  - first:
+      213: -4011540847612453196
+    second: eyeDoom_8
+  - first:
+      213: -3576086811898102303
+    second: eyeDoom_9
+  - first:
+      213: -405674514019858623
+    second: eyeDoom_10
+  - first:
+      213: 6762510083543449184
+    second: eyeDoom_11
+  - first:
+      213: -7396264639364998810
+    second: eyeDoom_12
+  - first:
+      213: -7637536087729031407
+    second: eyeDoom_13
+  - first:
+      213: -1667586207338770915
+    second: eyeDoom_14
+  - first:
+      213: 1554936433565429411
+    second: eyeDoom_15
+  - first:
+      213: 1196830573876913925
+    second: eyeDoom_16
+  - first:
+      213: 4219562687682546321
+    second: eyeDoom_17
+  - first:
+      213: 564660594507355152
+    second: eyeDoom_18
+  - first:
+      213: 348493707562629666
+    second: eyeDoom_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyeDoom_0
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 222
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b1c113d794d0a0800000000000000
+      internalID: -6857689399786622215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_1
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 264
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909762294c1eb720800000000000000
+      internalID: 2863757513489617053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 131
+        width: 160
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5eee92f90fe6100800000000000000
+      internalID: 103284407870088702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_3
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 229
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ccc1d384a0a1c0800000000000000
+      internalID: -4494411542048224943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_4
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfcd26bdd3d5770800000000000000
+      internalID: 8601098875813296913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 142
+        width: 149
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439398001afeb51e0800000000000000
+      internalID: -2207907717517330124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 133
+        width: 158
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289279140dcbb9240800000000000000
+      internalID: 4799637430533040514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 120
+        width: 167
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03e53520a974c20800000000000000
+      internalID: 3190688195794579683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_8
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 231
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be17186ad42458c0800000000000000
+      internalID: -4011540847612453196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbad2ddff2f5ec0800000000000000
+      internalID: -3576086811898102303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_10
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 224
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147ca69cd21ce5af0800000000000000
+      internalID: -405674514019858623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_11
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 193
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eba97771349dd50800000000000000
+      internalID: 6762510083543449184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 118
+        width: 180
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ddd16f703b5990800000000000000
+      internalID: -7396264639364998810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173fa3c465020690800000000000000
+      internalID: -7637536087729031407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 211
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4b3ffd2b8bd8e0800000000000000
+      internalID: -1667586207338770915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 218
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeeafaa27e349510800000000000000
+      internalID: 1554936433565429411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 135
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507a24cd01ffb9010800000000000000
+      internalID: 1196830573876913925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_17
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 129
+        width: 160
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8fc288e5ee8a30800000000000000
+      internalID: 4219562687682546321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_18
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 127
+        width: 160
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014954aa1d316d700800000000000000
+      internalID: 564660594507355152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeDoom_19
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 116
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ababd3e2916d400800000000000000
+      internalID: 348493707562629666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
