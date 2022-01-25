@@ -6,8 +6,12 @@ public class MaskItemCapsuleScript : MonoBehaviour
 {
     private bool canGetMask;
     public GameObject player;
+    public GameObject item;
+
+    
     void Start()
     {
+        
         canGetMask = false;
     }
 
@@ -20,7 +24,9 @@ public class MaskItemCapsuleScript : MonoBehaviour
             Debug.Log("Mask added to the inventory");
             isDone = true;
             SFXManager.sfxInstance.Audio.clip = SFXManager.sfxInstance.achievementSound;
-        SFXManager.sfxInstance.Audio.Play();
+            SFXManager.sfxInstance.Audio.Play();
+            Destroy(item);
+    
 
         }
         
@@ -38,9 +44,5 @@ public class MaskItemCapsuleScript : MonoBehaviour
         Debug.Log("leave");
 
     }
-
-    
-    
-
     
 }

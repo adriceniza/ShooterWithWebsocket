@@ -6,6 +6,7 @@ public class ShotgunShellsController : MonoBehaviour
 {
 
     public GameObject player;
+    public GameObject item;
     void Start()
     {
         
@@ -19,7 +20,9 @@ public class ShotgunShellsController : MonoBehaviour
     {
         player.GetComponent<Weapon>().addAmmo();
         SFXManager.sfxInstance.Audio.clip = SFXManager.sfxInstance.achievementSound;
-        SFXManager.sfxInstance.Audio.Play();   
+        SFXManager.sfxInstance.Audio.Play();
+        Destroy(item);
+
     }
 
 }

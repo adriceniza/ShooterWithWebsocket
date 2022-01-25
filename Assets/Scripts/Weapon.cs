@@ -89,28 +89,38 @@ public class Weapon : MonoBehaviour
             canShoot = false;
             gameObject.GetComponent<Animator>().SetBool("shooting", true);
             RaycastHit hit;
+            
             if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
             {
                 var HT = hit.transform;
                 var GO = hit.collider.gameObject;
                 var tag = HT.tag;
-                if (tag == "Enemy")
+                Debug.Log(GO);
+                if(tag != "AreaDetector")
                 {
+                    if (tag == "Enemy")
+                    {
                     Debug.Log(GO);
 
                     if (HT.name.Contains("eyedoom"))
                     {
                         HT.gameObject.GetComponent<EyeDoomController>().TakeDmg(player, damage);
                     }
-
-
+                    if(HT.name.Contains("Skunk"))
+                    {
+                        HT.gameObject.GetComponent<SkunkController>().TakeDmg(player, damage);
+                    }
+                    }
+                    GameObject impact = Instantiate(impactEffect, hit.point, Quaternion.LookRotation(hit.normal));
+                    Destroy(impact, 2f);
                 }
+                
+                
+                
             };
 
 
-
-            GameObject impact = Instantiate(impactEffect, hit.point, Quaternion.LookRotation(hit.normal));
-            Destroy(impact, 2f);
+            
             ammo -= 1;
             StartCoroutine(setShotTrue());
     }
