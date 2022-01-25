@@ -6,7 +6,7 @@ public class SFXManager : MonoBehaviour
 {
 
     public AudioSource Audio;
-    public AudioClip Shoot , Reload , Ajam , FootStep , achievementSound;
+    public AudioClip Shoot , Reload , Ajam , FootStep , achievementSound , skunkShoot;
 
     public static SFXManager sfxInstance;
 

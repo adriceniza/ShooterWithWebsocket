@@ -10,7 +10,6 @@ public class Weapon : MonoBehaviour
     public bool canShoot;
     public int ammo;
     public Camera fpsCam;
-    public GameObject impactEffect;
     public GameObject player;
 
 
@@ -84,20 +83,18 @@ public class Weapon : MonoBehaviour
     }
     void Shoot()
     {
-     
+    
             playSound("shoot");
             canShoot = false;
             gameObject.GetComponent<Animator>().SetBool("shooting", true);
             RaycastHit hit;
-            
             if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
             {
+
                 var HT = hit.transform;
                 var GO = hit.collider.gameObject;
                 var tag = HT.tag;
-                Debug.Log(GO);
-                if(tag != "AreaDetector")
-                {
+
                     if (tag == "Enemy")
                     {
                     Debug.Log(GO);
@@ -111,9 +108,6 @@ public class Weapon : MonoBehaviour
                         HT.gameObject.GetComponent<SkunkController>().TakeDmg(player, damage);
                     }
                     }
-                    GameObject impact = Instantiate(impactEffect, hit.point, Quaternion.LookRotation(hit.normal));
-                    Destroy(impact, 2f);
-                }
                 
                 
                 
@@ -162,4 +156,6 @@ public class Weapon : MonoBehaviour
         ammo=2;
         
     }
+
+    
 }

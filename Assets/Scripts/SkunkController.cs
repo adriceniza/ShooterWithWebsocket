@@ -10,10 +10,15 @@ public class SkunkController : MonoBehaviour
     public Slider slider;
     public GameObject healthBarUI;
     public float damage;
+
+    public GameObject bullet;
+    public Transform firePoint;
+
     void Start()
     {
         health = maxHealth;
         slider.value = maxHealth;
+        StartCoroutine(AutoShoot());
         
     }
 
@@ -116,5 +121,23 @@ public class SkunkController : MonoBehaviour
 
    
 
-    
+    void Shoot()
+    {
+        RaycastHit hit;
+        Quaternion fireRotation = Quaternion.LookRotation(transform.forward);
+        if(Physics.Raycast(transform.position, fireRotation * Vector3.forward , out hit , Mathf.Infinity))
+        {
+            GameObject tempBullet = Instantiate(bullet,firePoint.transform.position, fireRotation);
+            SFXManager.sfxInstance.Audio.clip = SFXManager.sfxInstance.skunkShoot;
+            SFXManager.sfxInstance.Audio.Play();
+            tempBullet.GetComponent<MoveSkunkBullet>().hitPoint = hit.point;
+        }
+    }
+    IEnumerator AutoShoot()
+    {
+        float pause = Random.Range(1,4);
+        yield return new WaitForSeconds(pause);
+        Shoot();
+        StartCoroutine(AutoShoot());
+    }
 }
